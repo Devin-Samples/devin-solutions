@@ -16,7 +16,7 @@ This catalog indexes solutions in the `Devin-Samples` org where Devin is integra
 | [devin-bulk-manager](https://github.com/Devin-Samples/devin-bulk-manager) | Bulk user permission management via Devin API | Python | Available |
 | [devin-sdk](https://github.com/Devin-Samples/devin-sdk) | Lightweight reference SDK wrapping Devin's APIs | TypeScript | Available |
 | [prompt-library](https://github.com/Devin-Samples/prompt-library) | Reference system prompts to improve Devin behavior | Markdown | Available |
-| [user-management](https://github.com/Devin-Samples/user-management) | User permission management for Devin | Python | Available |
+| [user-management](https://github.com/Devin-Samples/user-management) | User, org, and GitHub team management for Devin enterprises | Python | Available |
 
 ## Aggregate Collections
 
