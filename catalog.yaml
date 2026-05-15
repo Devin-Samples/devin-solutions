@@ -54,11 +54,11 @@ repos:
 
   - name: user-management
     url: https://github.com/Devin-Samples/user-management
-    description: User permission management for Devin
+    description: User, org, and GitHub team management for Devin enterprises
     tech_stack: [Python]
     type: standalone
     status: available
-    tags: [user-management, permissions, api]
+    tags: [user-management, permissions, api, github-sync, org-management]
 
   # Aggregate Collections
   - name: automations-and-integrations
