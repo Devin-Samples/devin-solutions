@@ -1,0 +1,78 @@
+# Machine-readable index of all Devin-Powered repos in the Devin-Samples org
+# These are solutions where Devin is a runtime participant
+layer: devin-powered
+
+repos:
+  # Standalone Solutions
+  - name: ACU-budgets
+    url: https://github.com/Devin-Samples/ACU-budgets
+    description: Budget enforcement and ACU management using the Devin API
+    tech_stack: [TypeScript, React, Node.js, AWS]
+    type: standalone
+    status: available
+    tags: [budget, acm, management, api]
+
+  - name: cognizant-devin-bulk-manager
+    url: https://github.com/Devin-Samples/cognizant-devin-bulk-manager
+    description: Bulk user provisioning via Devin v3 API using CSV
+    tech_stack: [Python]
+    type: standalone
+    status: available
+    tags: [user-management, bulk, csv, api]
+
+  - name: deepwiki-api
+    url: https://github.com/Devin-Samples/deepwiki-api
+    description: API and frontend for DeepWiki and AskDevin
+    tech_stack: [JavaScript]
+    type: standalone
+    status: available
+    tags: [deepwiki, askdevin, documentation, api]
+
+  - name: devin-bulk-manager
+    url: https://github.com/Devin-Samples/devin-bulk-manager
+    description: Bulk user permission management via Devin API
+    tech_stack: [Python]
+    type: standalone
+    status: available
+    tags: [user-management, bulk, permissions, api]
+
+  - name: devin-sdk
+    url: https://github.com/Devin-Samples/devin-sdk
+    description: Lightweight reference SDK wrapping Devin's APIs
+    tech_stack: [TypeScript]
+    type: standalone
+    status: available
+    tags: [sdk, api, typescript]
+
+  - name: prompt-library
+    url: https://github.com/Devin-Samples/prompt-library
+    description: Reference system prompts to improve Devin behavior
+    tech_stack: [Markdown]
+    type: standalone
+    status: available
+    tags: [prompts, system-prompts, best-practices]
+
+  - name: user-management
+    url: https://github.com/Devin-Samples/user-management
+    description: User permission management for Devin
+    tech_stack: [Python]
+    type: standalone
+    status: available
+    tags: [user-management, permissions, api]
+
+  # Aggregate Collections
+  - name: automations-and-integrations
+    url: https://github.com/Devin-Samples/automations-and-integrations
+    description: CI/CD triggers, network connectivity, webhook receivers, and integration patterns
+    tech_stack: [Python, Shell, AWS CloudFormation, Azure Functions]
+    type: aggregate
+    status: available
+    tags: [ci-cd, github-actions, azure-devops, network, webhooks]
+
+  - name: reference-solution-architectures
+    url: https://github.com/Devin-Samples/reference-solution-architectures
+    description: Solution designs where Devin provides quality, efficiency, reliability, and/or scale
+    tech_stack: [Markdown]
+    type: aggregate
+    status: available
+    tags: [architecture, solution-design, patterns]
