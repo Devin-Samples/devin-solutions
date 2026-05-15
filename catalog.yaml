@@ -52,6 +52,14 @@ repos:
     status: available
     tags: [sdk, api, typescript]
 
+  - name: devin-security-hunter
+    url: https://github.com/Devin-Samples/devin-security-hunter
+    description: Autonomous source code security auditor using parent-child Devin session orchestration
+    tech_stack: [Python, Markdown]
+    type: standalone
+    status: available
+    tags: [security, code-scanning, parent-child, orchestration, playbooks, knowledge, structured-output]
+
   - name: prompt-library
     url: https://github.com/Devin-Samples/prompt-library
     description: Reference system prompts to improve Devin behavior
