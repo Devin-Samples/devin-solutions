@@ -17,6 +17,7 @@ This catalog indexes solutions in the `Devin-Samples` org where Devin is integra
 | [devin-sdk](https://github.com/Devin-Samples/devin-sdk) | Lightweight reference SDK wrapping Devin's APIs | TypeScript | Available |
 | [prompt-library](https://github.com/Devin-Samples/prompt-library) | Reference system prompts to improve Devin behavior | Markdown | Available |
 | [user-management](https://github.com/Devin-Samples/user-management) | User, org, and GitHub team management for Devin enterprises | Python | Available |
+| [architecture-doc-analyzer](https://github.com/Devin-Samples/architecture-doc-analyzer) | Architecture diagram HA/reliability analysis — Approach B uses Devin as the worker agent (Devin-Powered); also contains [Approach A](https://github.com/Devin-Samples/architecture-doc-analyzer/tree/init/approach-a-bedrock-agent) (Devin-Built, see [devin-showcase](https://github.com/Devin-Samples/devin-showcase)) | Python, React, AWS, Devin API | Available |
 
 ## Aggregate Collections
 

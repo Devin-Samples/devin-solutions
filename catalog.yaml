@@ -60,6 +60,15 @@ repos:
     status: available
     tags: [user-management, permissions, api, github-sync, org-management]
 
+  - name: architecture-doc-analyzer
+    url: https://github.com/Devin-Samples/architecture-doc-analyzer
+    description: Architecture diagram HA/reliability analysis — Approach B uses Devin as the worker agent
+    tech_stack: [Python, React, TypeScript, AWS, Devin API]
+    type: standalone
+    status: available
+    tags: [architecture, analysis, devin-agent, ha, reliability, dual-approach]
+    cross_listed_in: devin-showcase  # Approach A uses Bedrock/Claude independently
+
   # Aggregate Collections
   - name: automations-and-integrations
     url: https://github.com/Devin-Samples/automations-and-integrations
