@@ -12,6 +12,14 @@ repos:
     status: available
     tags: [budget, acm, management, api]
 
+  - name: architecture-doc-analyzer
+    url: https://github.com/Devin-Samples/architecture-doc-analyzer
+    description: Architecture diagram HA/reliability analysis — Approach B uses Devin as the worker agent
+    tech_stack: [Python, React, TypeScript, AWS, Devin API]
+    type: standalone
+    status: available
+    tags: [architecture, analysis, devin-agent, ha, reliability, dual-approach]
+
   - name: cognizant-devin-bulk-manager
     url: https://github.com/Devin-Samples/cognizant-devin-bulk-manager
     description: Bulk user provisioning via Devin v3 API using CSV

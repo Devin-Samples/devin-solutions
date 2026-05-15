@@ -11,6 +11,7 @@ This catalog indexes solutions in the `Devin-Samples` org where Devin is integra
 | Solution | Description | Tech Stack | Status |
 |----------|-------------|------------|--------|
 | [ACU-budgets](https://github.com/Devin-Samples/ACU-budgets) | Budget enforcement and ACU management using the Devin API | TypeScript, React, AWS | Available |
+| [architecture-doc-analyzer](https://github.com/Devin-Samples/architecture-doc-analyzer) | Architecture diagram HA/reliability analysis — Approach B uses Devin as the worker agent (Devin-Powered); also contains [Approach A](https://github.com/Devin-Samples/architecture-doc-analyzer/tree/init/approach-a-bedrock-agent) (Devin-Built, see [devin-showcase](https://github.com/Devin-Samples/devin-showcase)) | Python, React, TypeScript, AWS, Devin API | Available |
 | [cognizant-devin-bulk-manager](https://github.com/Devin-Samples/cognizant-devin-bulk-manager) | Bulk user provisioning via Devin v3 API using CSV | Python | Available |
 | [deepwiki-api](https://github.com/Devin-Samples/deepwiki-api) | API and frontend for DeepWiki and AskDevin | JavaScript | Available |
 | [devin-bulk-manager](https://github.com/Devin-Samples/devin-bulk-manager) | Bulk user permission management via Devin API | Python | Available |
