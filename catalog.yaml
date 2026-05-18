@@ -28,6 +28,14 @@ repos:
     status: available
     tags: [user-management, bulk, csv, api]
 
+  - name: config-drift-remediation
+    url: https://github.com/Devin-Samples/config-drift-remediation
+    description: Automated investigation and GitOps remediation of infrastructure configuration drift
+    tech_stack: [Python, AWS, CloudFormation, EventBridge, Lambda]
+    type: standalone
+    status: available
+    tags: [config-drift, remediation, gitops, aws-config, compliance, iac]
+
   - name: deepwiki-api
     url: https://github.com/Devin-Samples/deepwiki-api
     description: API and frontend for DeepWiki and AskDevin
