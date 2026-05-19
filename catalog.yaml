@@ -96,7 +96,7 @@ repos:
   - name: reference-solution-architectures
     url: https://github.com/Devin-Samples/reference-solution-architectures
     description: Solution designs where Devin provides quality, efficiency, reliability, and/or scale
-    tech_stack: [Markdown]
+    tech_stack: [Markdown, YAML, GitHub Actions]
     type: aggregate
     status: available
-    tags: [architecture, solution-design, patterns]
+    tags: [architecture, solution-design, patterns, agentic-sdlc, devin-review, auto-fix, vulnerability-remediation, ephemeral-environments, auto-merge]
