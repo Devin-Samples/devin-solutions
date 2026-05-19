@@ -99,4 +99,4 @@ repos:
     tech_stack: [Markdown, YAML, GitHub Actions]
     type: aggregate
     status: available
-    tags: [architecture, solution-design, patterns, secure-sdlc, devin-review, auto-fix, vulnerability-remediation, ephemeral-environments, auto-merge]
+    tags: [architecture, solution-design, patterns, agentic-sdlc, devin-review, auto-fix, vulnerability-remediation, ephemeral-environments, auto-merge]
