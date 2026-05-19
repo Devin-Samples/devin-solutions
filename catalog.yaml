@@ -84,6 +84,16 @@ repos:
     status: available
     tags: [user-management, permissions, api, github-sync, org-management]
 
+  # Devin-Driven Solutions
+  - name: ai-transformation-playbook
+    url: https://github.com/Devin-Samples/ai-transformation-playbook
+    description: Strategic guidance for organizations adopting AI across engineering and business operations
+    tech_stack: [Markdown]
+    type: standalone
+    layer: devin-driven
+    status: available
+    tags: [transformation, strategy, adoption, accessibility, governance, windsurf, devin-cloud, devin-cli]
+
   # Aggregate Collections
   - name: automations-and-integrations
     url: https://github.com/Devin-Samples/automations-and-integrations
