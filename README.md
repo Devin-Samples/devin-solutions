@@ -26,7 +26,7 @@ This catalog indexes solutions in the `Devin-Samples` org where Devin is integra
 | Collection | Description | Scope | Status |
 |------------|-------------|-------|--------|
 | [automations-and-integrations](https://github.com/Devin-Samples/automations-and-integrations) | CI/CD triggers, network connectivity, webhook receivers | GitHub Actions, Azure DevOps, AWS SSM | Available |
-| [reference-solution-architectures](https://github.com/Devin-Samples/reference-solution-architectures) | Solution designs where Devin provides quality, efficiency, reliability, and/or scale | Architecture patterns | Available |
+| [reference-solution-architectures](https://github.com/Devin-Samples/reference-solution-architectures) | Solution designs where Devin provides quality, efficiency, reliability, and/or scale — includes [Secure Agentic SDLC](https://github.com/Devin-Samples/reference-solution-architectures/tree/main/secure-agentic-sdlc) | Architecture patterns, Devin Review, SDLC | Available |
 
 ## What Makes a Repo "Devin-Powered"?
 
