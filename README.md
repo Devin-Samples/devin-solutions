@@ -21,6 +21,14 @@ This catalog indexes solutions in the `Devin-Samples` org where Devin is integra
 | [prompt-library](https://github.com/Devin-Samples/prompt-library) | Reference system prompts to improve Devin behavior | Markdown | Available |
 | [user-management](https://github.com/Devin-Samples/user-management) | User, org, and GitHub team management for Devin enterprises | Python | Available |
 
+## Devin-Driven Solutions
+
+Solutions where Devin is central to the narrative and strategy — not strictly a runtime API participant, but where the platform (Devin, Windsurf, CLI) drives organizational transformation.
+
+| Solution | Description | Tech Stack | Status |
+|----------|-------------|------------|--------|
+| [ai-transformation-playbook](https://github.com/Devin-Samples/ai-transformation-playbook) | Strategic guidance for organizations adopting AI across engineering and business operations | Markdown | Available |
+
 ## Aggregate Collections
 
 | Collection | Description | Scope | Status |
@@ -28,7 +36,7 @@ This catalog indexes solutions in the `Devin-Samples` org where Devin is integra
 | [automations-and-integrations](https://github.com/Devin-Samples/automations-and-integrations) | CI/CD triggers, network connectivity, webhook receivers | GitHub Actions, Azure DevOps, AWS SSM | Available |
 | [reference-solution-architectures](https://github.com/Devin-Samples/reference-solution-architectures) | Solution designs where Devin provides quality, efficiency, reliability, and/or scale — includes [Agentic SDLC](https://github.com/Devin-Samples/reference-solution-architectures/tree/main/agentic-sdlc) | Architecture patterns, Devin Review, SDLC | Available |
 
-## What Makes a Repo "Devin-Powered"?
+## What Makes a Repo "Devin-Powered" or "Devin-Driven"?
 
 A repo belongs in this catalog when:
 - It calls the **Devin API or SDK** at runtime
@@ -36,6 +44,7 @@ A repo belongs in this catalog when:
 - It provides **MCP servers, playbooks, prompts, or knowledge** for Devin
 - It wraps **Devin as a worker agent** in a larger pipeline
 - It **manages Devin resources** (users, budgets, permissions)
+- It provides **strategic guidance or transformation narratives** centered on the Cognition platform (Devin-Driven)
 
 ## Looking for Devin-Built Solutions?
 
